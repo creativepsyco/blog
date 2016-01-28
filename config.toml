@@ -1,0 +1,18 @@
+baseurl = "https://creativepsyco.github.io/"
+languageCode = "en-us"
+title = "creativepsyco's blog"
+[params]
+	github = "creativepsyco"
+	contact = "mailto:mohit.kanwal@gmail.com"
+	bio = "Android Developer"
+	subtitle = "Random thoughts on Android, software and life"
+	disqus = "creativepyscoblog"
+	ga_api_key = "UA-36037120-1"
+	avatar = "/images/avatar.jpg"
+	twitter = "mohitkanwal"
+	instagram = "mohitkanwal"
+
+[blackfriday]
+	angledQuotes = false
+	fractions = false
+	extensions = ["laxHtmlBlocks"]
